@@ -11,8 +11,6 @@ essas duas funções forma implementdas para a realização de testes nelas.
 
 ## tecnologias utilizadas
 * javascript
-* html
-* css
 * jest
 
 ## como rodar o projeto localmente
